@@ -1,10 +1,11 @@
-import QuizCatogries from "./components/QuizCatogries";
+import QuizCategories from "./components/QuizCategories";
+
 
 
 const App = () => {
   return (
     <div>
-      <QuizCatogries/>
+      <QuizCategories/>
     </div>
   );
 };
